@@ -184,7 +184,7 @@ static int throughput_client(char *endpoint, unsigned int size) {
 
 int main(int argc, char *argv[]) {
 	if (argc != 2 && argc != 4) {
-		printf("Usage: program [server][client ENDPOINT SIZE_MB]");
+		printf("Usage: program [server][client ENDPOINT SIZE_KB]");
 		exit(1);
 	}
 
