@@ -2,7 +2,7 @@
 
 This repository is a collection of some very preliminary tests for measuring the OPC UA performance using the open62541 stack. 
 
-## Throuput
+## Throughput
 
 Measuring the throughput is done by using an OPC UA server which provides two methods:
 
